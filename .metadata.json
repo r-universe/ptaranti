@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ceg",
+    "oncran": true
+  },
+  {
+    "package": "coppeCosenzaR",
+    "oncran": true
+  }
+]
