@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ceg"]
 	path = ceg
 	url = https://github.com/ptaranti/ceg
-	shallow = true
-	registered = true
 [submodule "coppeCosenzaR"]
 	path = coppeCosenzaR
 	url = https://github.com/ptaranti/coppecosenzar
-	shallow = true
-	registered = true
